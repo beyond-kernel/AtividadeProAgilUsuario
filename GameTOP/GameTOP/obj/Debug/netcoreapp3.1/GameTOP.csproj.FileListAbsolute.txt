@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.exe
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.deps.json
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.pdb
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Lib.dll
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Lib.pdb
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csprojAssemblyReference.cache
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csproj.CopyComplete
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\Rafael\OneDrive\Udemy\Fullstack_AspNetCore_Angular\GameTOP\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.pdb
